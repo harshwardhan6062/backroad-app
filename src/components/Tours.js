@@ -1,9 +1,5 @@
 
 import { TourCardData } from '../data/Data';
-import tour1 from  '../images/tour-1.jpeg';
-import tour2 from '../images/tour-2.jpeg';
-import tour3 from '../images/tour-3.jpeg';
-import tour4 from '../images/tour-4.jpeg';
 import { TourCard } from './TourCard';
 
 export const Tours = () => {
