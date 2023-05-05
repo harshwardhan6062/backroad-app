@@ -1,5 +1,5 @@
 
-The site is deployed on: https://react-tours-harshwardhan-koushik.netlify.app
+The site is deployed on: https://harshwardhan-backroad.netlify.app
 
 
 # Getting Started with Create React App
